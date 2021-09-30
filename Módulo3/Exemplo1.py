@@ -1,2 +1,2 @@
 n = int(input('Escreva o valor de n:')) 
-n >= 100
+print(n >= 100)
